@@ -1,1 +1,1 @@
-https://ghproxy.net
+http://github-proxy.teach-english.tech
